@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+%23+Hi%2C+I'm+%C3%89rika!+Welcome+to+my+creative+space+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Hi%2C+I'm+%C3%89rika!+;Welcome+to+my+creative+space+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm an analytical professional with an engineering background and a passion for solving complex problems. Currently, I work as a **Data Analyst (Process Controller)**, where I apply logic and clarity to optimize systems. My journey is focused on transitioning into the tech industry, where I aim to apply my reasoning to build useful and innovative solutions.
 
@@ -69,7 +69,7 @@ I love to connect with people who are also passionate about technology, data, an
   <summary>🇧🇷 Ler em Português / Read in Portuguese</summary>
   <br>
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%23+Ol%C3%A1%2C+%C3%89rika+aqui!+Seja+bem-vindo(a)+ao+meu+espa%C3%A7o+de+cria%C3%A7%C3%A3o+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=%23+Ol%C3%A1%2C+%C3%89rika+aqui!+;Seja+bem-vindo(a)+ao+meu+espa%C3%A7o+de+cria%C3%A7%C3%A3o+%F0%9F%91%8B)](https://git.io/typing-svg)
   
   Sou uma profissional analítica com background em Engenharia e uma paixão por resolver problemas complexos. Atualmente, trabalho como **Analista de Dados (Controlador de Processo)**, onde aplico lógica e clareza para otimizar sistemas. Minha jornada é focada na transição para a área de tecnologia, onde busco aplicar meu raciocínio para construir soluções úteis e inovadoras.
   
